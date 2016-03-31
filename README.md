@@ -56,8 +56,6 @@ What exactly will be turned in on this day?
 
 
 ## Group Responsibilities
-Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
-
 
 ### Ryan Cauble
 will write the code that creates the database and the code that generates the results visually.
