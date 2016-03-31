@@ -43,20 +43,27 @@ graphically through the plot library. Then we will work on different relevant st
 cool things about the data. Once the math is done we will look at ways to also display that data. 
 
 ### First Milestone (04-13)
-What exactly will be turned in on this day? 
+What exactly will be turned in on this day?
+
+- code that accomplishes pulling in data from an outside file.
+- code that accomplishes organizing that data into a database.
 
 ### Second Milestone (04-21)
 What exactly will be turned in on this day? 
+
+- code that accomplishes mathmatical computation of data.
+- code that accomplishes displaying results graphically.
+
 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
 
-### Susan Scheme
-will write the....
+### Ryan Cauble
+will write the code that creates the database and the code that generates the results visually.
 
-### Leonard Lambda
-will work on...
+### Cody Mulkern
+will write the code that extracts data from an outside file and the code that computes the data mathmatically.
 
 ## Proposal Presentations
 Create your 2- to 3-slide presentation in [Google Slides][gslides]. Then, import them into one of the two slide decks:
