@@ -31,9 +31,13 @@ Your team will have two minutes to present. Create presentation with two or thre
 
 (Template follows. You may delete this line and all above it. Please edit the following template to create your report.)
 
-# Project Title: title here (10 words maximum)
+# Project Title: Visual Data
 ### Problem Statement
-Describe your problem, and why it is interesting. 
+When looking at large amounts of data it is sometimes hard to visualize the big picture of whats really going on. 
+Lets pretend that you own a car dealership and want to know what months typically have the largest sales. To find out
+the answer to this many years of car sales would need to be analysed. This task would be daunting to accomplish without
+the help from some clever software. This is interesting because the concept can be applied to many real life situations
+where data needs to analysed and viewed graphically to be understood.  
 
 ### Problem Analysis
 Explain what approaches from class you will bring to bear on the problem. Be explicit and succinct.
