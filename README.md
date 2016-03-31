@@ -36,12 +36,11 @@ At the live demo we will be able to do the following:
 - It will be interactive.
 
 ## Work Plan and Schedule
-Explain how you will go from proposal to finished product. Write your general plan here. 
-There are three deliverable milestones to explicitly define, below. The nature of deliverables depend on your project, but may include things like processed data ready for import, core algorithms implemented, interface design prototyped, etc. 
 
-You will be expected to turn in code, documentation, and data (as appropriate) at each of these stages, so take care in writing concrete steps for your schedule. 
-
-In this general plan, and in the deliverables below.
+This project will be accomplished is steps. The first things that will be worked on is the database and extracting
+data from a outside file. Once the data is organized into a database we will work on finding ways to display that data
+graphically through the plot library. Then we will work on different relevant statistical analysis functions to discover 
+cool things about the data. Once the math is done we will look at ways to also display that data. 
 
 ### First Milestone (04-13)
 What exactly will be turned in on this day? 
