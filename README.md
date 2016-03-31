@@ -47,13 +47,14 @@ To accomplish this project many concepts from class will be used together to org
 - Other methods will be written to import data from an outside file that will be used to fill database. 
 
 ### Data set or other source materials
-If you will be working with existing data, where will you get those data from? (Dowload it from a website? access it in a database? create it in a simulation you will build....)
+The data we use will come from a file like a excel sheet we create. This file will simulate the data that could be received 
+from other sources like the internet. For building and testing purposes we need the data to be fixed and predictable so that is why 
+we decided to create our own data set.
 
-How will you convert that data into a form usable for your project?  
+The data will be implemented into a database we create for organization.  
 
-Do your homework here: if you are pulling data from somewhere, actually go download it and look at it. Explain in some detail what your plan is for accomplishing the necessary processing.
-
-If you are using some other starting materails, explain what they are. Basically: anything you plan to use that isn't code.
+To get an idea of the type of data we should build. We will perform research on car sales to see what kind of information 
+is important to consider. 
 
 ### Deliverable and Demonstration
 Explain exactly what you'll have at the end. What will it be able to do at the live demo?
