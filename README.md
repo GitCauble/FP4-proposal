@@ -26,17 +26,14 @@ To get an idea of the type of data we should build. We will perform research on 
 is important to consider. 
 
 ### Deliverable and Demonstration
-Explain exactly what you'll have at the end. What will it be able to do at the live demo?
 
-What exactly will you produce at the end of the project? A piece of software, yes, but what will it do? Here are some questions to think about (and answer depending on your application).
 
-Will it run on some data, like batch mode? Will you present some analytical results of the processing? How can it be re-run on different source data?
-
-Will it be interactive? Can you show it working? This project involves a live demo, so interactivity is good.
-
-### Evaluation of Results
-How will you know if you are successful? 
-If you include some kind of _quantitative analysis,_ that would be fantastic.
+At the live demo we will be able to do the following: 
+- Input data from an outside file.  
+- Show that the data is neatly contained withr in our database.
+- Use the data to generate a detailed 3D visual representation. 
+- Display the results of some statistical anaysis visually. 
+- It will be interactive.
 
 ## Work Plan and Schedule
 Explain how you will go from proposal to finished product. Write your general plan here. 
