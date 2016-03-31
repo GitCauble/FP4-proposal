@@ -40,7 +40,11 @@ the help from some clever software. This is interesting because the concept can 
 where data needs to analysed and viewed graphically to be understood.  
 
 ### Problem Analysis
-Explain what approaches from class you will bring to bear on the problem. Be explicit and succinct.
+To accomplish this project many concepts from class will be used together to organize, calculate, and display our data.
+- A database will be used to store and organize the data that will be used. 
+- Mathmatical procedures will be writting to perform the statistcal computation. 
+- The plot library will be used to display the data stored in the database. 
+- Other methods will be written to import data from an outside file that will be used to fill database. 
 
 ### Data set or other source materials
 If you will be working with existing data, where will you get those data from? (Dowload it from a website? access it in a database? create it in a simulation you will build....)
